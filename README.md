@@ -9,7 +9,7 @@
 ###Mr.Jones implemented the Currency converter module. The module focusses on converting USD into euros or pounds or vice versa.
 ###Jordan Mitchell implemented the discount module and also introduced us to interesting concepts of calculating tax on any given numbers.
 
-#Calculator can achieve 15 functionalities that ranges from arithmetic, trignometric, including advanced arithmetic operations of performing Discount and currency conversion.
+#Calculator can perform 15 functionalities that ranges from arithmetic, trignometric, including advanced arithmetic operations of performing Discount and currency conversion.
 #project underwent uni testing of modules as well as integration testing of the completed project as well.
 
 
