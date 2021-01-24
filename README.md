@@ -10,7 +10,7 @@
  
 
 
-##This group project was assigned on 15th Jan 2020 and implemented by Team 2 of TTS (Mr.Horne,Mr.Jones,Keya Daniel ,Jordan Mitchell And Aparna).
+##This group project was assigned on 15th Jan 2020 and implemented by Team 2 of CodeSHV from TTS comprising of Mr.Horne,Mr.Jones,Keya Daniel ,Jordan Mitchell And Aparna.
 ###Keya took the responsibilty of creating the repository on github and implemented version control and merging changes to the code.
 ###Mr.Horne, pioneer of our team developed n integrated of about 15 modules into our current proj i.e Calculator.
 ###Mr.Jones implemented the Currency converter module. The module focusses on converting USD into euros or pounds or vice versa.
