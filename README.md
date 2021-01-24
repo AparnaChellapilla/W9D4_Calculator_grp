@@ -1,7 +1,14 @@
 # W9D4_Calculator
  grp prj Calculator
- ## Hereby would like to appreciate n acknowledge each n everyone's contribution in our team 
- ## that led to this outstanding implementation and creating some magic using simple numbers..
+ ## would like to appreciate n acknowledge each n everyone's contribution in our team 
+ ## that led to this successful implementation and creating some magic using integers..
+
+[![]( https://github.com/keyadaniel.png?size=0.5)]( https://github.com/keyadaniel) [![](https://github.com/wiggypig.png?size=50)](https://github.com/wiggypig)
+[![]( https://github.com/LLJ3288.png?size=50)](https://github.com/LLJ3288)
+
+
+ 
+
 
 ##This group project was assigned on 15th Jan 2020 and implemented by Team 2 of TTS (Mr.Horne,Mr.Jones,Keya Daniel ,Jordan Mitchell And Aparna).
 ###Keya took the responsibilty of creating the repository on github and implemented version control and merging changes to the code.
